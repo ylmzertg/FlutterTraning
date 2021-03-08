@@ -37,7 +37,7 @@ class _AnaEkranState extends State<AnaEkran> {
   martGoster() {
     // blogYazisi = 'Temsili yeni bir yazı';
     setState(() {
-      blogYazisi = 'Temsili yeni bir test';
+      blogYazisi = 'Temsili yeni bir yazı';
     });
   }
 
